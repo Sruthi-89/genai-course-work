@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Advanced Agentic AI & AI Agents with Generative AI — course repository
 
 This repository is the single source of truth for the course: every command shown in class is here, character for character. If a slide and this README disagree, the README wins.
@@ -76,3 +77,7 @@ sessions/S09a/                    Session 9a slides, instructor pack and setup g
 pyproject.toml + uv.lock          pinned dependencies (uv sync)
 ```
 Modules are added as the course progresses (`module01/ … module14/`).
+=======
+# genai-course-work
+This repository is used to keep all my work related to Gen AI and Agentic AI work.
+>>>>>>> 857463decb8ed12392ecafd0fc6d4c21d866e75e
